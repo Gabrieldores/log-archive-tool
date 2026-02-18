@@ -2,6 +2,8 @@
 
 A robust and simple Command Line Interface (CLI) tool written in Bash to automate the archiving and compression of system logs. This tool helps keep Unix-based systems organized by compressing log directories into `.tar.gz` files and maintaining an execution history.
 
+Project link: https://roadmap.sh/projects/log-archive-tool
+
 ## 🌟 Features
 
 * **Effortless Compression:** Automatically packs log directories into compressed archives.
